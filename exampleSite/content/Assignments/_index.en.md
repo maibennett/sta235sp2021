@@ -7,6 +7,6 @@ pre: "<b>3. </b>"
 
 # Assignments
 
-Here you can find the lists of assignmnents.
+Refer to Dropbox link to see files.
 
 
