@@ -26,20 +26,20 @@ Complete before **Sunday April 18th (11:59 pm)**. You can find the assignment <a
 
 ## Slides
 
-{{% button href="https://sta235.netlify.app/Classes/Week12/1_DecisionTrees/sp2021_sta235_15_decisiontrees_blind.html" icon="fas fa-external-link-alt" icon-position="right" %}}New window{{% /button %}} {{% button href="https://sta235.netlify.app/Classes/Week12/1_DecisionTrees/sp2021_sta235_15_decisiontrees_blind.pdf" icon="fas fa-file-pdf" icon-position="right" %}}Download{{% /button %}} 
+{{% button href="https://sta235sp2021.netlify.app/Classes/Week12/1_DecisionTrees/sp2021_sta235_15_decisiontrees_blind.html" icon="fas fa-external-link-alt" icon-position="right" %}}New window{{% /button %}} {{% button href="https://sta235sp2021.netlify.app/Classes/Week12/1_DecisionTrees/sp2021_sta235_15_decisiontrees_blind.pdf" icon="fas fa-file-pdf" icon-position="right" %}}Download{{% /button %}} 
 
-{{< slides src="https://sta235.netlify.app/Classes/Week12/1_DecisionTrees/sp2021_sta235_15_decisiontrees_blind.html" >}}
+{{< slides src="https://sta235sp2021.netlify.app/Classes/Week12/1_DecisionTrees/sp2021_sta235_15_decisiontrees_blind.html" >}}
 
 ## Code
 
-Here is the R code we will review in class, with some additional data and questions <a onclick="ga('send', 'event', 'External-Link','click','code15','0','Link');" href="https://raw.githubusercontent.com/maibennett/sta235/main/exampleSite/content/Classes/Week12/code/sp2021_sta235_15_decisiontrees.R" target="_blank" class="btn btn-default">Download<i class="fas fa-code"></i></a>
+Here is the R code we will review in class, with some additional data and questions <a onclick="ga('send', 'event', 'External-Link','click','code15','0','Link');" href="https://raw.githubusercontent.com/maibennett/sta235sp2021/main/exampleSite/content/Classes/Week12/code/sp2021_sta235_15_decisiontrees.R" target="_blank" class="btn btn-default">Download<i class="fas fa-code"></i></a>
 
 ## In-class activity
 
-Code for in-class activity <a onclick="ga('send', 'event', 'External-Link','click','class_act12','0','Link');" href="https://raw.githubusercontent.com/maibennett/sta235/main/exampleSite/content/Classes/Week12/code/sp2021_sta235_week12_exercise.R" target="_blank" class="btn btn-default">Download<i class="fas fa-code"></i></a>
+Code for in-class activity <a onclick="ga('send', 'event', 'External-Link','click','class_act12','0','Link');" href="https://raw.githubusercontent.com/maibennett/sta235sp2021/main/exampleSite/content/Classes/Week12/code/sp2021_sta235_week12_exercise.R" target="_blank" class="btn btn-default">Download<i class="fas fa-code"></i></a>
 
 ## Highlight session
 
-{{% button href="https://sta235.netlify.app/Classes/Week12/highlights/sp2021_sta235_week12_highlights.html" icon="fas fa-external-link-alt" icon-position="right" %}}Slides{{% /button %}}
+{{% button href="https://sta235sp2021.netlify.app/Classes/Week12/highlights/sp2021_sta235_week12_highlights.html" icon="fas fa-external-link-alt" icon-position="right" %}}Slides{{% /button %}}
 
-<a onclick="ga('send', 'event', 'External-Link','click','HL12code','0','Link');" href="https://raw.githubusercontent.com/maibennett/sta235/main/exampleSite/content/Classes/Week12/Highlights/sp2021_sta235_week12_code.R" target="_blank" class="btn btn-default">Code<i class="fas fa-code"></i></a>
+<a onclick="ga('send', 'event', 'External-Link','click','HL12code','0','Link');" href="https://raw.githubusercontent.com/maibennett/sta235sp2021/main/exampleSite/content/Classes/Week12/Highlights/sp2021_sta235_week12_code.R" target="_blank" class="btn btn-default">Code<i class="fas fa-code"></i></a>

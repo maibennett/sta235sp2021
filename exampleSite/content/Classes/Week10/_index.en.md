@@ -30,18 +30,18 @@ Complete before **Sunday April 4th (11:59 pm)**. You can find the assignment <a 
 
 ## Slides
 
-{{% button href="https://sta235.netlify.app/Classes/Week10/1_IV/sp2021_sta235_11_instrumental_variables_cont.html" icon="fas fa-external-link-alt" icon-position="right" %}}New window{{% /button %}} {{% button href="https://sta235.netlify.app/Classes/Week10/1_IV/sp2021_sta235_11_instrumental_variables_cont.pdf" icon="fas fa-file-pdf" icon-position="right" %}}Download{{% /button %}} 
+{{% button href="https://sta235sp2021.netlify.app/Classes/Week10/1_IV/sp2021_sta235_11_instrumental_variables_cont.html" icon="fas fa-external-link-alt" icon-position="right" %}}New window{{% /button %}} {{% button href="https://sta235sp2021.netlify.app/Classes/Week10/1_IV/sp2021_sta235_11_instrumental_variables_cont.pdf" icon="fas fa-file-pdf" icon-position="right" %}}Download{{% /button %}} 
 
-{{< slides src="https://sta235.netlify.app/Classes/Week10/1_IV/sp2021_sta235_11_instrumental_variables_cont.html" >}}
+{{< slides src="https://sta235sp2021.netlify.app/Classes/Week10/1_IV/sp2021_sta235_11_instrumental_variables_cont.html" >}}
 
-{{% button href="https://sta235.netlify.app/Classes/Week10/2_ModelSelection/sp2021_sta235_12_modelselection.html" icon="fas fa-external-link-alt" icon-position="right" %}}New window{{% /button %}} {{% button href="https://sta235.netlify.app/Classes/Week10/2_ModelSelection/sp2021_sta235_12_modelselection.pdf" icon="fas fa-file-pdf" icon-position="right" %}}Download{{% /button %}} 
+{{% button href="https://sta235sp2021.netlify.app/Classes/Week10/2_ModelSelection/sp2021_sta235_12_modelselection.html" icon="fas fa-external-link-alt" icon-position="right" %}}New window{{% /button %}} {{% button href="https://sta235sp2021.netlify.app/Classes/Week10/2_ModelSelection/sp2021_sta235_12_modelselection.pdf" icon="fas fa-file-pdf" icon-position="right" %}}Download{{% /button %}} 
 
-{{< slides src="https://sta235.netlify.app/Classes/Week10/2_ModelSelection/sp2021_sta235_12_modelselection.html" >}}
+{{< slides src="https://sta235sp2021.netlify.app/Classes/Week10/2_ModelSelection/sp2021_sta235_12_modelselection.html" >}}
 
 ## Code
 
-Here is the R code we will review in class, with some additional data and questions <a onclick="ga('send', 'event', 'External-Link','click','code10','0','Link');" href="https://raw.githubusercontent.com/maibennett/sta235/main/exampleSite/content/Classes/Week10/code/sp2021_sta235_12_prediction1.R" target="_blank" class="btn btn-default">Download<i class="fas fa-code"></i></a> 
+Here is the R code we will review in class, with some additional data and questions <a onclick="ga('send', 'event', 'External-Link','click','code10','0','Link');" href="https://raw.githubusercontent.com/maibennett/sta235sp2021/main/exampleSite/content/Classes/Week10/code/sp2021_sta235_12_prediction1.R" target="_blank" class="btn btn-default">Download<i class="fas fa-code"></i></a> 
 
 ## Highlight session
 
-{{% button href="https://sta235.netlify.app/Classes/Week10/Highlights/sp2021_sta235_week10_highlights.html" icon="fas fa-external-link-alt" icon-position="right" %}}Slides{{% /button %}}
+{{% button href="https://sta235sp2021.netlify.app/Classes/Week10/Highlights/sp2021_sta235_week10_highlights.html" icon="fas fa-external-link-alt" icon-position="right" %}}Slides{{% /button %}}
